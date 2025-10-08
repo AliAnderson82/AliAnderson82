@@ -76,9 +76,6 @@ C.E.O Of Cybers/ash</samp></h3><a id="user-content-hey-i-am-aslan-im-a-14-yo-sof
 #include <iostream>
 using namespace std;
 
-
-
-
 enum Gender{
 	Male,Female
 };
@@ -108,8 +105,6 @@ class Person{
 		}
 		
 };
-
-
 
 int main() {
 	enum Gender myGender = Male;
