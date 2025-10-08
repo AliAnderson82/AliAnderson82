@@ -10,7 +10,7 @@ C.E.O Of Cybers/ash</samp></h3><a id="user-content-hey-i-am-aslan-im-a-14-yo-sof
   <br>
 
   
-  <b>My most using technologies</b>
+  <b>My most used languages and tools</b>
   <br>
   <br>
 
@@ -47,7 +47,7 @@ C.E.O Of Cybers/ash</samp></h3><a id="user-content-hey-i-am-aslan-im-a-14-yo-sof
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6359618ebe1fbaa0240c6110fb3661f3d412483fc61a127708cf4c23213bc195/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e67696e782d2532333030393633392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e67696e78266c6f676f436f6c6f723d7768697465"><img alt="Nginx" src="https://camo.githubusercontent.com/6359618ebe1fbaa0240c6110fb3661f3d412483fc61a127708cf4c23213bc195/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e67696e782d2532333030393633392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e67696e78266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" style="max-width: 100%;"></a>
 
   <br>
-   <b>Socials</b>
+   <b>My socials</b>
   <br>
   <a href="mailto:uuyovp756@mozmail.com"><img src="https://camo.githubusercontent.com/e5cfad4cbb1e023463333923b069b81749d94e8ff5722f851c7bb01d65bb0e95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
   <a href="https://www.linkedin.com/in/coderali/" rel="nofollow"><img src="https://camo.githubusercontent.com/d90c501c7f68295cfcab6a68b761ba5b1101292b8ac9895eaeca253df2e53eb3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
@@ -67,7 +67,6 @@ C.E.O Of Cybers/ash</samp></h3><a id="user-content-hey-i-am-aslan-im-a-14-yo-sof
 <p align="center"> <a href="https://twitter.com/AliAhmadabadi5" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="AliAhmadabadi5" /></a> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AliAnderson82&label=Profile%20views&color=0e75b6&style=flat" alt="AliAnderson82" /> </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/88e1b21c4e11afd4f06cfb2b510dbb3690dbd300fb1a6d4676fd553a70bafa82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465"><img alt="C++" src="https://camo.githubusercontent.com/88e1b21c4e11afd4f06cfb2b510dbb3690dbd300fb1a6d4676fd553a70bafa82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" style="max-width: 100%;"></a>
 
 </div>
